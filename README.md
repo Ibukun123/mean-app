@@ -1,2 +1,2 @@
-# mean-app
-GitHub Pages
+# todo-app
+A simple todo app in javascript
