@@ -1,2 +1,2 @@
 # todo-app
-A simple todo app in javascript
+A simple todo app in nodejs
